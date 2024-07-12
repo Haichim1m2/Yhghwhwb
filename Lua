@@ -1,0 +1,1 @@
+loadstring(trò chơi:HttpGet("https://github.com/Basicallyy/Basicallyy/raw/main/ytb H.lua"))()
